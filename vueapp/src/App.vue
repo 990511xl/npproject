@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+  <h1>哈利路亚</h1>
+  <div>24356</div>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
